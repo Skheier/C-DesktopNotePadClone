@@ -2,8 +2,13 @@
 Um clone completo do Bloco de Notas, permitindo, salvar, editar, sobrescrever, procurar &amp; substituir no texto, tudo o que necessário para replicar a experiência do autêntico Note Pad.
 
 ## Requisitos
+- Visual Studio 2022
+- Pacote Core .NET Framework/Runtime instalado.
 
 ## Instalação
+- "git clone".
+- Abra o repositório onde a solução, `.sln` se encontra.
+- Execute-a.
 
 ## Funcionalidades
 - Visualização e Edição de documentos texto (fonte, tamanho).
