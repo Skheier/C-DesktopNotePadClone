@@ -1,5 +1,5 @@
 # C#DesktopNotePadClone
-Um clone completo do Bloco de Notas, permitindo, salvar, editar, sobrescrever, procurar &amp; substituir no texto, tudo o que necessário para replicar a experiência do autêntico Note Pad.
+Um clone completo do Bloco de Notas, permitindo, salvar, editar, sobrescrever, procurar &amp; substituir texto, tudo o que é necessário para replicar a experiência do autêntico Note Pad.
 
 ## Requisitos
 - Visual Studio 2022
@@ -13,7 +13,7 @@ Um clone completo do Bloco de Notas, permitindo, salvar, editar, sobrescrever, p
 ## Funcionalidades
 - Visualização e Edição de documentos texto (fonte, tamanho).
 - Salvamento de documentos para futura consulta e edição.
-- Formatos disponíveis `.rtf`(possibilitando alterar as cores do documento e `.txt`
+- Formatos disponíveis:`.txt` & `.rtf`(possibilitando alterar as cores do documento).
 - Localização e Substituição de texto.
 - Configuração de página.
 - Atalho de Impressão
